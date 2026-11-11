@@ -1,6 +1,18 @@
-# 🏢 Sistema de Gestión de Coworking
+# 🏢 Coworking Management System — Sistema de Gestión de Coworking en MySQL
 
-Bienvenido al repositorio oficial del **Sistema de Gestión de Coworking**. Este sistema implementa una base de datos robusta, relacional y altamente automatizada en MySQL para administrar la operación diaria, el control de acceso físico y las finanzas de una red de espacios de trabajo compartido.
+<div align="center">
+
+[![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Database Architecture](https://img.shields.io/badge/Database-3NF%20Normalized-brightgreen?style=for-the-badge)](https://en.wikipedia.org/wiki/Third_normal_form)
+[![Stored Procedures & Triggers](https://img.shields.io/badge/Automation-20%2B%20Triggers%20%26%20Events-orange?style=for-the-badge)](https://dev.mysql.com/doc/refman/8.0/en/triggers.html)
+[![Security & Roles](https://img.shields.io/badge/Security-RLS%20%26%20RBAC-blueviolet?style=for-the-badge)](https://dev.mysql.com/doc/refman/8.0/en/roles.html)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
+**Esquema de base de datos relacional de alto rendimiento, completamente normalizado y automatizado para la gestión operativa, reservas sin solapamiento, facturación y control de accesos.**
+
+[📦 Repositorio](https://github.com/Sergioandresaparicio/Coworking) • [🐛 Reportar Bug](https://github.com/Sergioandresaparicio/Coworking/issues) • [✨ Pull Requests](https://github.com/Sergioandresaparicio/Coworking/pulls)
+
+</div>
 
 ---
 

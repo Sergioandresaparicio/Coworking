@@ -1,0 +1,20 @@
+# Bases de datos y volcados temporales
+*.dump
+*.backup
+*.tmp
+*.log
+
+# Entornos y credenciales
+.env
+.env.local
+config.local.json
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# SO
+.DS_Store
+Thumbs.db
